@@ -19,33 +19,3 @@ if(firstNumber < seccondNumber && firstNumber < thirdNumber) {
 } else {
     console.log("O terceiro é o menor")
 }
-
-
-
-
-
-
-
-
-
-
-
-/*const firstNumber = 40
-const seccondNumber = 50
-const thirdNumber = 30
-
-if(firstNumber > seccondNumber && firstNumber > thirdNumber) {
-    console.log("O primeiro número é o maior")
-} else if(seccondNumber > thirdNumber) {
-    console.log("O segundo número é maior")
-} else {
-    console.log("O terceiro é maior")
-}
- 
-if(firstNumber < seccondNumber && firstNumber < thirdNumber) {
-    console.log("O primeiro número é o menor")
-} else if(seccondNumber < thirdNumber) {
-    console.log("O segundo número é menor")
-} else {
-    console.log("O terceiro é menor")
-}*/

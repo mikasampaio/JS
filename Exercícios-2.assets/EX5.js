@@ -16,27 +16,3 @@ if(person.age >=18 && person.nationality === "Brasileira") {
 } else {
     console.log("Reprovada")
 }
-
-
-
-
-
-
-
-
-
-
-
-/* const person = {
-    name: "Mikaeli",
-    age: 18,
-    sex: "female",
-    nationality: "brasileira",
-    state: "São Paulo"
-}
-
-if (person.age >=18 && person.nationality === "brasileira") {
-    console.log("Aprovada com sucesso")
-} else {
-    console.log("Reprovado")
-} */

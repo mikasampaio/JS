@@ -18,4 +18,4 @@ const personTwo = {
     sex: "female"
 }
 
-console.log(personOne.name == personTwo.name)
+console.log(personOne.name === personTwo.name)

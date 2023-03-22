@@ -2,16 +2,6 @@
 (aceitar somente valores entre 1 e 10) e escrever a tabuada de 1 a 10 
 do valor lido. */
 
-const tableOne = (numberOne) => {
-    for{i}
-}
-
-
-
-
-
-
-
 
 const table = (number) => {
     if(number > 10 || number < 1) {
